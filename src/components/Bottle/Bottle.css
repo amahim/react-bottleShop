@@ -1,0 +1,13 @@
+.Bottle img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid grey;
+    border-radius: 20px;
+    box-shadow: 3px 1px 2px white;
+}
+.Bottle{
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 0 0 10px 0;
+}
+
